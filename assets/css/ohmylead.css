@@ -1,0 +1,9 @@
+.custom-ohmylead-alert{
+    margin-top: 10px;
+    font-weight: bold;
+    color: #e50404;
+    font-size: 12px;
+}
+.custom-ohmylead-alert .dashicons-warning{
+    font-size: 17px;
+}
